@@ -8,7 +8,7 @@ For one inbound email, gatedraft runs the gates, sorts it, searches your own kno
 
 ## Get it
 
-Buy gatedraft at https://dominares.org/tools/gatedraft: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the gatedraft Python package and command, runnable examples and the full test suite.
+Buy gatedraft at https://dominares.org/tools/gatedraft: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the gatedraft Python package and command, runnable examples and the test suite.
 
 Requirements: Python 3.10 or newer. Your own model key (OpenAI-compatible or Anthropic) for live drafts; the dry run and canned-reply modes need none.
 
