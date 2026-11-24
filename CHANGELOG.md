@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.4 (2026-11-23)
+
+No change to the tool.
+
+- Two command tests used mail dated 2026-10-04, which the 30-day age gate now skips, so the suite failed. They now use yesterday's date.
+
 ## 1.0.3 (2026-10-06)
 
 Tests only. No code change.

@@ -12,7 +12,7 @@ Buy gatedraft at https://dominares.org/tools/gatedraft: one payment of $149, plu
 
 Requirements: Python 3.10 or newer. Your own model key (OpenAI-compatible or Anthropic) for live drafts; the dry run and canned-reply modes need none.
 
-This page documents version 1.0.3. Install commands and file paths in the documentation below run inside the private repository you are invited to; the source is not in this repository.
+This page documents version 1.0.4. Install commands and file paths in the documentation below run inside the private repository you are invited to; the source is not in this repository.
 
 ## Documentation
 
